@@ -2595,6 +2595,14 @@
 		position: relative;
 	}
 
+	.headshot {
+		border-radius: 0.25em;
+		border: 0;
+		height: 300px;
+		display: inline-block;
+		position: relative;
+	}
+
 		.image img {
 			border-radius: 0.25em;
 			display: block;
