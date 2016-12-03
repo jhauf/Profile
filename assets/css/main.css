@@ -2846,6 +2846,7 @@
 
 				ul.contact > li:first-child {
 					margin-top: 0;
+					font-size: 20px;
 				}
 
 		ul.menu {
@@ -3907,7 +3908,7 @@
 	}
 
 		#intro p {
-			font-size: 1.25em;
+			font-size: 1.10em;
 		}
 
 			@media screen and (max-width: 980px) {
