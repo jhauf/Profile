@@ -157,25 +157,8 @@
 								return;
 
 							// Cancel original event.
-								event.preventDefault();
-								event.stopPropagation();
 
-							// Hide panel.
-								$this._hide();
-
-							// Redirect to href.
-								window.setTimeout(function() {
-
-									if (target == '_blank')
-										window.open(href);
-									else
-										window.location.href = href;
-
-								}, config.delay + 10);
-
-						});
-
-				}
+				
 
 			// Event: Touch stuff.
 				$this.on('touchstart', function(event) {
