@@ -2058,7 +2058,8 @@
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			padding: 20px;
+			text-align: center;
 			width: 33%;
 			border-top: solid 1px rgba(255, 255, 255, 0.15);
 			position: relative;
@@ -2068,7 +2069,7 @@
 				border-top-width: 0;
 			}
 
-			.features section:nth-child(2n) {
+			.features section {
 				border-left: solid 1px rgba(255, 255, 255, 0.15);
 			}
 
@@ -2599,11 +2600,9 @@
 		padding-top: 30px;
 	}
 
-	.headshot {
+	.headshot  img {
 		padding: 30px;
 		float: left;
-		width: 400px;
-		height: 520px;
 	}
 
 	i {
@@ -2940,7 +2939,6 @@
 
 		.split > :nth-child(2n - 1) {
 			padding-right: 2.5em;
-			border-right: solid 1px rgba(255, 255, 255, 0.15);
 		}
 
 		.split > :nth-child(2n) {
