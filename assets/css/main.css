@@ -3916,8 +3916,9 @@
 		.intro_first {
 			font-size: 1.10em;
 			margin: 0 0 0 0;
-			font-size: 24px;
+			font-size: 26px;
 			font-style: italic;
+			padding-top: 30px;
 
 		}
 			@media screen and (max-width: 980px) {
