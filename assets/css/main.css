@@ -3913,6 +3913,13 @@
 
 		}
 
+		#intro_first p {
+			font-size: 1.10em;
+			margin: 0 0 0 0;
+			font-size: 24px;
+			font-style: italic;
+
+		}
 			@media screen and (max-width: 980px) {
 
 				#intro p br {
