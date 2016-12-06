@@ -3907,18 +3907,19 @@
 		background-size: 100% 100%;
 	}
 
-		#intro p {
+		.intro {
 			font-size: 1.10em;
 			margin: 0 0 0 0;
 
 		}
 
-		.intro_first {
+		.intro_1 {
 			font-size: 1.10em;
 			margin: 0 0 0 0;
 			font-size: 26px;
-			font-style: italic;
+			font-style: bold;
 			padding-top: 30px;
+			color: white;
 
 		}
 			@media screen and (max-width: 980px) {
